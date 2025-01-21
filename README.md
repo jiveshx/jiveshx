@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a UI Developer with a solid background in UI/UX and graphic design. I specialize in responsive web design, front-end development, and creating user-friendly, visually appealing digital experiences. With a focus on both function and design, I work closely with teams to bring ideas to life. Highly-motivated employee with desire to take on new challenges. Strong work ethic, adaptability, and exceptional interpersonal skills. Adept at working effectively unsupervised and quickly mastering new skills.
+I am a versatile UI Developer with a strong foundation in Frontend Technologies, UI/UX design, and intermediate expertise in React. I specialize in responsive web design, front-end development, and creating user-friendly, visually appealing digital experiences. I am also expanding my skills in backend technologies such as Node.js and Express.js, with a foundational understanding of these frameworks, and I have experience working with REST APIs to build seamless and dynamic web applications.
+Combining function with design, I collaborate closely with teams to bring ideas to life. I am a highly motivated individual with a strong work ethic, adaptability, and exceptional interpersonal skills. My ability to work effectively independently and quickly learn new skills ensures I consistently deliver high-quality results.
 
 
 ## 🌐 Socials:
