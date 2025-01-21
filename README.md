@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a UI Developer with a solid background in UI/UX and graphic design. I<br>specialize in responsive web design, front-end development, and creating<br>user-friendly, visually appealing digital experiences. With a focus on both<br>function and design, I work closely with teams to bring ideas to life.<br>Highly-motivated employee with desire to take on new challenges. Strong<br>work ethic, adaptability, and exceptional interpersonal skills. Adept at<br>working effectively unsupervised and quickly mastering new skills.
+I am a UI Developer with a solid background in UI/UX and graphic design. I specialize in responsive web design, front-end development, and creating user-friendly, visually appealing digital experiences. With a focus on both function and design, I work closely with teams to bring ideas to life. Highly-motivated employee with desire to take on new challenges. Strong work ethic, adaptability, and exceptional interpersonal skills. Adept at working effectively unsupervised and quickly mastering new skills.
 
 
 ## 🌐 Socials:
